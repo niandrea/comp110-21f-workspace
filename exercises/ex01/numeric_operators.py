@@ -1,5 +1,5 @@
-"""COMP 110 Exercise 01, Numeric Operators"""
-__author__  = "730396438"
+"""COMP 110 Exercise 01, Numeric Operators."""
+__author__ = "730396438"
 
 x: str = input("Left-hand side: ")
 y: str = input("Right-hand side: ")

@@ -1,5 +1,5 @@
-"""COMP 110 Exercise 01, Hype Machine"""
-__author__  = "730396438"
+"""COMP 110 Exercise 01, Hype Machine."""
+__author__ = "730396438"
 
 name: str = input("What is your name? ")
 print((name) + ", you're doing amazing sweetie! ")
